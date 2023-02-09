@@ -1,0 +1,15 @@
+"""
+Runs all of the essential parts of the program together.  Terminal output provides updates as to how to scraping process is
+going as well as times how long it takes.  Final line output looks like:
+[Name] at [shot on goal line]:
+    Complex (inferential z-test)
+    Simple (simple frequency/total number)
+    Mean (of those two numbers)
+
+Any %chance to hit valued at over .643 is marked in blue
+"""
+import nhlAPI
+import runAll
+
+nhlAPI.lines()
+runAll.output()
