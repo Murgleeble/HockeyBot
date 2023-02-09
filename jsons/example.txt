@@ -1,0 +1,57 @@
+{'season': '20222023', 
+    'stat': 
+        {
+            'timeOnIce': '16:07', 
+            'assists': 0, 
+            'goals': 0, 
+            'pim': 0, 
+            'shots': 1, 
+            'games': 1, 
+            'hits': 2, 
+            'powerPlayGoals': 0, 
+            'powerPlayPoints': 0, 
+            'powerPlayTimeOnIce': '02:40', 
+            'evenTimeOnIce': '12:28', 
+            'penaltyMinutes': '0', 
+            'faceOffPct': 40.0, 
+            'shotPct': 0.0, 
+            'gameWinningGoals': 0, 
+            'overTimeGoals': 0, 
+            'shortHandedGoals': 0, 
+            'shortHandedPoints': 0, 
+            'shortHandedTimeOnIce': '00:59', 
+            'blocked': 2, 
+            'plusMinus': 1, 
+            'points': 0, 
+            'shifts': 22
+            }, 
+        'team': 
+            {'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}, 
+        'opponent': 
+            {'id': 9, 'name': 'Ottawa Senators', 'link': '/api/v1/teams/9'}, 
+        'date': '2022-10-24', 
+        'isHome': False, 
+        'isWin': False, 
+        'isOT': False, 
+        'game':
+            {'gamePk': 2022020092, 
+                'link': '/api/v1/game/2022020092/feed/live', 
+                'content': 
+                    {'link': '/api/v1/game/2022020092/content'}
+            }
+}, 
+
+
+
+{'copyright': 'NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2023. All Rights Reserved.', 
+    'stats': [{
+                'type': {'displayName': 'gameLog', 'gameType': None}, 
+                'splits': [
+                    {'season': '20222023', 
+                     'stat': {'timeOnIce': '14:28', 'assists': 0, 'goals': 1, 'pim': 0, 'shots': 5, 'games': 1, 'hits': 1, 'powerPlayGoals': 1, 'powerPlayPoints': 1, 'powerPlayTimeOnIce': '00:25', 'evenTimeOnIce': '13:33', 'penaltyMinutes': '0', 'faceOffPct': 55.56, 'shotPct': 20.0, 'gameWinningGoals': 0, 'overTimeGoals': 0, 'shortHandedGoals': 0, 'shortHandedPoints': 0, 'shortHandedTimeOnIce': '00:30', 'blocked': 1, 'plusMinus': 0, 'points': 1, 'shifts': 19}, 'team': {'id': 25, 'name': 'Dallas Stars', 'link': '/api/v1/teams/25'}, 'opponent': {'id': 7, 'name': 'Buffalo Sabres', 'link': '/api/v1/teams/7'}, 'date': '2023-01-23', 'isHome': True, 'isWin': False, 'isOT': True, 'game': {'gamePk': 2022020753, 'link': '/api/v1/game/2022020753/feed/live', 'content': {'link': '/api/v1/game/2022020753/content'}}}, 
+
+{
+    'copyright': 'NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2023. All Rights Reserved.', 
+    'roster': 
+        [{
+            'person': {'id': 8473541, 'fullName': 'Jonathan Bernier', 'link': '/api/v1/people/8473541'}, 'jerseyNumber': '45', 'position': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}},

@@ -1,0 +1,286 @@
+[
+ {
+  "name": "William Karlsson",
+  "shots": "2.0"
+ },
+ {
+  "name": "Shea Theodore",
+  "shots": "2.5"
+ },
+ {
+  "name": "Ryan Hartman",
+  "shots": "2.5"
+ },
+ {
+  "name": "Matt Boldy",
+  "shots": "3.5"
+ },
+ {
+  "name": "Mats Zuccarello",
+  "shots": "2.5"
+ },
+ {
+  "name": "Kirill Kaprizov",
+  "shots": "3.5"
+ },
+ {
+  "name": "Jonathan Marchessault",
+  "shots": "3.0"
+ },
+ {
+  "name": "Joel Eriksson",
+  "shots": "3.0"
+ },
+ {
+  "name": "Jack Eichel",
+  "shots": "3.0"
+ },
+ {
+  "name": "Alex Pietrangelo",
+  "shots": "2.5"
+ },
+ {
+  "name": "Noah Dobson",
+  "shots": "2.5"
+ },
+ {
+  "name": "Kyle Palmieri",
+  "shots": "2.0"
+ },
+ {
+  "name": "J.T. Miller",
+  "shots": "2.5"
+ },
+ {
+  "name": "Elias Pettersson",
+  "shots": "3.0"
+ },
+ {
+  "name": "Conor Garland",
+  "shots": "2.0"
+ },
+ {
+  "name": "Brock Nelson",
+  "shots": "2.5"
+ },
+ {
+  "name": "Brock Boeser",
+  "shots": "2.0"
+ },
+ {
+  "name": "Bo Horvat",
+  "shots": "3.0"
+ },
+ {
+  "name": "Anthony Beauvillier",
+  "shots": "2.0"
+ },
+ {
+  "name": "Anders Lee",
+  "shots": "2.0"
+ },
+ {
+  "name": "Tomas Hertl",
+  "shots": "2.0"
+ },
+ {
+  "name": "Timo Meier",
+  "shots": "4.0"
+ },
+ {
+  "name": "Sam Reinhart",
+  "shots": "2.5"
+ },
+ {
+  "name": "Sam Bennett",
+  "shots": "3.0"
+ },
+ {
+  "name": "Matthew Tkachuk",
+  "shots": "4.0"
+ },
+ {
+  "name": "Logan Couture",
+  "shots": "2.0"
+ },
+ {
+  "name": "Erik Karlsson",
+  "shots": "2.5"
+ },
+ {
+  "name": "Carter Verhaeghe",
+  "shots": "3.0"
+ },
+ {
+  "name": "Brandon Montour",
+  "shots": "2.5"
+ },
+ {
+  "name": "Aaron Ekblad",
+  "shots": "3.0"
+ },
+ {
+  "name": "Tyler Toffoli",
+  "shots": "3.0"
+ },
+ {
+  "name": "Noah Hanifin",
+  "shots": "2.0"
+ },
+ {
+  "name": "Nazem Kadri",
+  "shots": "3.0"
+ },
+ {
+  "name": "Mikael Backlund",
+  "shots": "2.5"
+ },
+ {
+  "name": "Filip Hronek",
+  "shots": "2.0"
+ },
+ {
+  "name": "Elias Lindholm",
+  "shots": "2.0"
+ },
+ {
+  "name": "Dylan Larkin",
+  "shots": "3.0"
+ },
+ {
+  "name": "David Perron",
+  "shots": "2.0"
+ },
+ {
+  "name": "Blake Coleman",
+  "shots": "2.5"
+ },
+ {
+  "name": "Andrew Mangiapane",
+  "shots": "2.0"
+ },
+ {
+  "name": "Victor Hedman",
+  "shots": "2.5"
+ },
+ {
+  "name": "Valeri Nichushkin",
+  "shots": "3.0"
+ },
+ {
+  "name": "Steven Stamkos",
+  "shots": "3.5"
+ },
+ {
+  "name": "Nikita Kucherov",
+  "shots": "3.0"
+ },
+ {
+  "name": "Nathan MacKinnon",
+  "shots": "4.5"
+ },
+ {
+  "name": "Mikko Rantanen",
+  "shots": "3.0"
+ },
+ {
+  "name": "J.T. Compher",
+  "shots": "2.0"
+ },
+ {
+  "name": "Evan Rodrigues",
+  "shots": "2.5"
+ },
+ {
+  "name": "Devon Toews",
+  "shots": "2.0"
+ },
+ {
+  "name": "Brayden Point",
+  "shots": "3.0"
+ },
+ {
+  "name": "Artturi Lehkonen",
+  "shots": "2.0"
+ },
+ {
+  "name": "Zach Hyman",
+  "shots": "3.0"
+ },
+ {
+  "name": "Travis Konecny",
+  "shots": "3.0"
+ },
+ {
+  "name": "Tony DeAngelo",
+  "shots": "2.5"
+ },
+ {
+  "name": "Ryan Nugent-Hopkins",
+  "shots": "2.0"
+ },
+ {
+  "name": "Owen Tippett",
+  "shots": "2.5"
+ },
+ {
+  "name": "Leon Draisaitl",
+  "shots": "2.5"
+ },
+ {
+  "name": "Kevin Hayes",
+  "shots": "3.0"
+ },
+ {
+  "name": "Evander Kane",
+  "shots": "3.0"
+ },
+ {
+  "name": "Darnell Nurse",
+  "shots": "2.0"
+ },
+ {
+  "name": "Connor McDavid",
+  "shots": "4.0"
+ },
+ {
+  "name": "Vince Dunn",
+  "shots": "1.5"
+ },
+ {
+  "name": "Dougie Hamilton",
+  "shots": "3.0"
+ },
+ {
+  "name": "Jared McCann",
+  "shots": "2.0"
+ },
+ {
+  "name": "Jesper Bratt",
+  "shots": "2.5"
+ },
+ {
+  "name": "Jaden Schwartz",
+  "shots": "2.0"
+ },
+ {
+  "name": "Nico Hischier",
+  "shots": "2.5"
+ },
+ {
+  "name": "Jack Hughes",
+  "shots": "4.0"
+ },
+ {
+  "name": "Tomas Tatar",
+  "shots": "1.5"
+ },
+ {
+  "name": "Lucas Raymond",
+  "shots": "1.5"
+ },
+ {
+  "name": "Eeli Tolvanen",
+  "shots": "2.0"
+ }
+]

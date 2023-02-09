@@ -1,0 +1,23 @@
+{
+    _id: Objectid()
+    username: str
+    password: str
+    basketball: bool
+    football: bool
+    hockey: bool
+    soccer: bool
+    current_bets: {
+                        {
+                            bet_id: int
+                            player_name: str (Nylander)
+                            line: float (3.5)
+                            type: str (SOG)
+                            chance: float (53.912876)
+                            game: [HOM, AWA] ([TOR, STL])
+                        }
+
+                    }
+
+}
+
+current_bet[ID][line]
