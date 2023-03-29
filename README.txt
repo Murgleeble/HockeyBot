@@ -78,3 +78,8 @@ main:
 visuals.py:
     uses matplotlib to create a simple histogram of a requested player given a certain stats line.  not necessary for functionality,
     but I like it to better visualize lines.
+
+Update Log:
+v2.0.0:
+    -Added additional error handling
+    -fixed an issue in idCreator (didn't previously build Kraken players)
