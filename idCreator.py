@@ -10,14 +10,14 @@ import os
 ID = 1
 
 playerList = []
-while ID < 55:
+while ID < 56:
      API_URL = f"https://statsapi.web.nhl.com/api/v1/teams/{ID}/roster"
      response = requests.get(API_URL + f"/stats?stats=gameLog", params={"Content-Type": "application/json"})
      data = response.json()
 
      try:
           for player in data["roster"]:
-                    #print("\t" + player["person"]["fullName"] + " " + str(player["person"]["id"]))
+                    print("\tAdded: " + player["person"]["fullName"] + " " + str(player["person"]["id"]) + " to playerIDs.json")
                     playerList.append({"name" : player["person"]["fullName"], "id" : player["person"]["id"]})
 
      except:
