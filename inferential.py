@@ -53,19 +53,23 @@ def getStatsHelper(firstname, lastname):
         sumH += int(data[i][4])
         sumB += int(data[i][5])
         counter += 1
-    meanG = sumG/counter
-    meanA = sumA/counter
-    meanS = sumS/counter
-    meanH = sumH/counter
-    meanB = sumB/counter
 
-    finalList.append(meanG)
-    finalList.append(meanA)
-    finalList.append(meanS)
-    finalList.append(meanH)
-    finalList.append(meanB)
+    try:
+        meanG = sumG/counter
+        meanA = sumA/counter
+        meanS = sumS/counter
+        meanH = sumH/counter
+        meanB = sumB/counter 
 
-    return finalList
+        finalList.append(meanG)
+        finalList.append(meanA)
+        finalList.append(meanS)
+        finalList.append(meanH)
+        finalList.append(meanB)
+
+        return finalList
+    except:
+        return False
 
 def getStats(firstname, lastname):
     path = f'/Users/harborwolff/desktop/dataS/hockey/22-23/{lastname.lower()}{firstname.lower()}.csv'
